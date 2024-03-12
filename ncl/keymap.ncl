@@ -1,1 +1,1 @@
-import "../my_keebs/The_ENDGAME_x_MIAO/keymap.ncl"
+import "../my_keebs/TheENDGAME/keymap.ncl"
