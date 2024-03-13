@@ -6,10 +6,10 @@ let kc = tap.reg.kc in
    layers = [
      [
      kc.Q, kc.W, kc.E, kc.R, kc.T, kc.Z, kc.U, kc.I, kc.O, kc.P,
-     kc.A, kc.S, kc.D, kc.F, kc.G, kc.H, kc.J, kc.K, kc.L, kc.0,
-     kc.Y, kc.X, kc.C, kc.V, kc.B, kc.N, kc.M, kc.1, kc.2, kc.3,
-     kc.4,          kc.5, kc.6 kc.7, kc.8,             kc.9
- 
+     kc.A, kc.S, kc.D, kc.F, kc.G, kc.H, kc.J, kc.K, kc.L, kc.N0,
+     kc.Y, kc.X, kc.C, kc.V, kc.B, kc.N, kc.M, kc.N1, kc.N2, kc.N3,
+                 kc.N4, kc.N5,           kc.N6, kc.N7,
+                             kc.N8, kc.N9
      ]
    ]
  }
