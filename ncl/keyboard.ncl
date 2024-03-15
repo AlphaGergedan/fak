@@ -1,1 +1,1 @@
-import "../OldManKeebs/TheENDGAME/keyboard.ncl"
+import "OldManKeebs/TheENDGAME/keyboard.ncl"
