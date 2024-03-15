@@ -1,1 +1,1 @@
-import "OldManKeebs/TheENDGAME/keymap.ncl"
+import "OldManKeebs/TheEndgame/keymap.ncl"
