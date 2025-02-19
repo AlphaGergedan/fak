@@ -38,7 +38,7 @@ let keymap = {
     # Symbol layer
     [
       kc.F1, kc.F2, kc.F3, kc.F4, kc.F5, kc.F6, kc.F7, kc.F8, kc.F9, kc.F10,
-      XXXX, XXXX, XXXX, XXXX, XXXX, kc.H, kc.J, kc.K, kc.L, kc.ENT,
+      XXXX, XXXX, XXXX, XXXX, XXXX, kc.H, kc.J, kc.K, kc.F11, kc.F12,
       kc.Z, kc.X, kc.C, kc.V, XXXX, kc.LEFT, kc.DOWN, kc.UP, kc.RGHT, XXXX,
       XXXX,      thumb1, thumb2,         thumb3, thumb4, XXXX
     ],
